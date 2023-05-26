@@ -13,11 +13,11 @@ This repository holds the data analysis for a dataset of approximately 1,400 car
 ├── data
 │   └── car_data.csv
 ├── figures
-│   ├── boxplot_prices_by_year.png
-│   ├── histogram_of_prices.png
-│   ├── histogram_of_prices_by_fuel_type.png
-│   ├── scatterplot_prices_vs_age.png
-│   └── scatterplot_prices_vs_age_airco.png
+    ├── boxplot_prices_by_year.png
+    ├── histogram_of_prices.png
+    ├── histogram_of_prices_by_fuel_type.png
+    ├── scatterplot_prices_vs_age.png
+    └── scatterplot_prices_vs_age_airco.png
 ```
 * `data/`: Holds the original dataset utilized for the analysis.
 * `code/`: Houses the R scripts responsible for generating the data visualizations.
